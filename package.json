@@ -1,0 +1,19 @@
+{
+  "name": "tz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "proga.js",
+  "scripts": {
+    "test": "nodemon TTZ.js",
+    "graphik": "node  ./graphiki/graphic.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^3.9.1",
+    "chartjs-node-canvas": "^4.1.6",
+    "nodemon": "^2.0.22",
+    "plotly": "^1.0.6"
+  }
+}
